@@ -1,11 +1,11 @@
+
 {
-  "name": "tp-nestjs-biblio",
+  "name": "tp-nestjs-ing3",
   "version": "0.0.1",
   "description": "",
   "author": "",
   "private": true,
   "license": "UNLICENSED",
-  "type": "module",
   "scripts": {
     "build": "nest build",
     "deploy": "nest deploy",
